@@ -1,6 +1,6 @@
 # 🔍 TraceIntel
 
-**TraceIntel** is a powerful, asynchronous OSINT tool designed to collect, correlate, and visualize intelligence related to IP addresses. Built for security researchers, penetration testers, SOC analysts, and OSINT enthusiasts, TraceIntel aggregates data from multiple trusted sources to deliver accurate, actionable insights — fast.
+**TraceIntel** `traxosint` is a powerful, asynchronous OSINT tool designed to collect, correlate, and visualize intelligence related to IP addresses. Built for security researchers, penetration testers, SOC analysts, and OSINT enthusiasts, TraceIntel aggregates data from multiple trusted sources to deliver accurate, actionable insights — fast.
 
 > ⚡ Minimal footprint. Maximum intelligence.
 
